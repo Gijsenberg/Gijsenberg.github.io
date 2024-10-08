@@ -1,1 +1,31 @@
+<!DOCTYPE html> <!--dit is de homepage van mijn site-->
+<html> <!--dit is het html element-->
+<head>
+    <title>Het eerste begin</title>
+    <link rel="stylesheet" type="text/css" href="opmaak.css">
+    <meta charset="utf-8">
+</head>
+<body>
+    Uitleg Fysieke laag Processor, kloksnelheid
+
+    <br>
+    <ul>
+        <li><a href="index.html">home</a></li>
+        <li><a href="binairstelsel.html">binairstelsel</a></li>
+        <li><a href="kleurmodellen.html">Kleurmodellen</a></li>
+        <li><a href="Compressietechnieken.html">Compressietechnieken</a></li>
+        <li><a href="CPU.html">werking van computers</a></li>
+        <li><a href="algemene informatie.html">algemene informatie</a></li>
+    </ul>
+
+    <p>
+
+De processor (CPU) is het brein van een computer die alle instructes uitvoert & ook berekeningen maakt om taken te doen. Het is een van de belangrijkste componenten van een computer. Bij elke nieuwe telefoon die uitkomt wordt er ook een nieuwere & betere CPU in de telefoon gedaan om de telefoon sneller & beter te maken.
+Kloksnelheid is de snelheid waarmee de CPU zijn taken doet. Het wordt gemeten in gigahertz (GHz). hoe nieuwer de CPU hoe hogere kloksnelheid de CPU heeft. Mijn eigen CPU in mijn pc heeft een 4.1 GHz kloksnelheid.
+verwerkingssnelheid is de snelheid waarmee een computer of CPU gegevens kan verwerken en de taken kan uitvoeren. Dit wordt beïnvloed door verschillende factoren, zoals de kloksnelheid van de CPU of het aantal "cores" dat een CPU heeft. Mijn CPU heeft 6 cores in totaal.
+
+</p>
+
+</body>
+</html>
 
