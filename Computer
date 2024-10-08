@@ -1,0 +1,28 @@
+<!DOCTYPE html> <!--dit is de homepage van mijn site-->
+<html> <!--dit is het html element-->
+<head>
+    <title>Het eerste begin</title>
+    <link rel="stylesheet" type="text/css" href="opmaak.css">
+    <meta charset="utf-8">
+</head>
+<body>
+    Uitleg computer
+
+    <br>
+    <ul>
+        <li><a href="index.html">home</a></li>
+        <li><a href="binairstelsel.html">binairstelsel</a></li>
+        <li><a href="kleurmodellen.html">Kleurmodellen</a></li>
+        <li><a href="Compressietechnieken.html">Compressietechnieken</a></li>
+        <li><a href="CPU.html">werking van computers</a></li>
+        <li><a href="algemene informatie.html">algemene informatie</a></li>
+    </ul>
+
+        <p>
+
+Een computer is een bijzonder en moeilijke machine die informatie verwerkt. Het brein van de computer is de CPU(Central processing Unit). Die voert berekeningen uit door instructies te lezen en gegevens op te halen uit het geheugen. Gegevens worden opgeslagen in opslagapparaten, zoals harde schijven of SSD's. In het besturingssysteem zit een hardware en software, waardoor gebruikers toegang krijgen tot programma's en gegevens. Input apparaten, zoals toetsenborden en muizen, laten mensen informatie invoeren, terwijl output apparaten zoals de monitor en printers resullaten weergeven. Communicatie met andere computers gebeurt via netwerken, terwijl softwareprogramma's verschillende taken uitvoeren, van tekstverwerking tot videogames. Dit alles maakt computers een heel handig hulpmiddel voor talloze toepassingen.
+</p>
+
+</body>
+</html>
+
