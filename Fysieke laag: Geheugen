@@ -1,0 +1,32 @@
+<!DOCTYPE html> <!--dit is de homepage van mijn site-->
+<html> <!--dit is het html element-->
+<head>
+    <title>Het eerste begin</title>
+    <link rel="stylesheet" type="text/css" href="opmaak.css">
+    <meta charset="utf-8">
+</head>
+<body>
+    Uitleg Fysieke laag Geheugen RAM, ROM
+
+    <br>
+    <ul>
+        <li><a href="index.html">home</a></li>
+        <li><a href="binairstelsel.html">binairstelsel</a></li>
+        <li><a href="kleurmodellen.html">Kleurmodellen</a></li>
+        <li><a href="Compressietechnieken.html">Compressietechnieken</a></li>
+        <li><a href="CPU.html">werking van computers</a></li>
+        <li><a href="algemene informatie.html">algemene informatie</a></li>
+    </ul>
+
+    <p>
+
+Een computer gebruikt energie om informatie op te slaan en op te halen, voornamelijk van RAM en harde schijven. RAM wordt gebruikt voor tijdelijke gegevensopslag tijdens de uitvoering van programma's, terwijl harde schijven permanent gegevens opslaan, zelfs als de computer is uitgeschakeld. Power zorgt voor snelle toegang tot essentiële informatie.
+
+RAM, of Random Access Memory, is het werkgeheugen van een computer, dat wordt gebruikt om tijdelijke gegevens en programma's op te slaan. Het is snel, efficiënt en kan worden gebruikt om programma's te nemen en uit te voeren zonder gegevens over te dragen.
+
+ROM (Read-Only Memory) is een soort geheugen in de computer dat alleen-lezen is en gebruikt wordt om permanente gegevens & instructies op te slaan, zoals de firmware van een apparaat
+
+</p>
+
+</body>
+</html>
