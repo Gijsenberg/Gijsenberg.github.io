@@ -1,0 +1,28 @@
+<!DOCTYPE html> <!--dit is de homepage van mijn site-->
+<html> <!--dit is het html element-->
+<head>
+    <title>Het eerste begin</title>
+    <link rel="stylesheet" type="text/css" href="opmaak.css">
+    <meta charset="utf-8">
+</head>
+<body>
+    Uitleg Fysieke laag Randapparatuur
+
+    <br>
+    <ul>
+        <li><a href="index.html">home</a></li>
+        <li><a href="binairstelsel.html">binairstelsel</a></li>
+        <li><a href="kleurmodellen.html">Kleurmodellen</a></li>
+        <li><a href="Compressietechnieken.html">Compressietechnieken</a></li>
+        <li><a href="CPU.html">werking van computers</a></li>
+        <li><a href="algemene informatie.html">algemene informatie</a></li>
+    </ul>
+
+    <p>
+
+de fysieke laag van randapparatuur is de laag in een computernetwerk die verantwoordelijk is voor de verbindingen tussen apparaten. Deze laag zorgt voor hoe gegevens worden overgedragen via bijvoorbeeld: kabels, radiogolven. Voor bijvoorbeeld toetsenborden wordt de informatie door gegeven via kabels die aangesloten aan het toetsenbord.
+
+</p>
+
+</body>
+</html>
